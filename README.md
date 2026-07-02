@@ -1,119 +1,222 @@
-# 👋 Hi, I'm Rijin Jenjen
+<h1 align="center">Hi 👋, I'm Rijin Jenjen</h1>
 
-### 🚀 Data Scientist | AI/ML Engineer | GenAI Developer
+<h3 align="center">🚀 Data Scientist | AI/ML Engineer | GenAI Developer</h3>
 
-Passionate about building AI-powered applications, Machine Learning solutions, and Generative AI systems that solve real-world problems.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI%2FML+Engineer;GenAI+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions" />
+</p>
 
----
-
-## 🔥 About Me
-
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 🤖 AI/ML Engineer with experience in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
-- 🧠 Built Production RAG Chatbots 
-- 📊 Developed Fraud Detection Models achieving **92% accuracy**
-- 👨‍💻 Experienced with Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, Power BI
-- 🌱 Currently exploring Advanced GenAI, Agents, and MLOps
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rijinjenjen2003&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+🎓 B.Tech in Electronics & Communication Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🤖 AI/ML Engineer passionate about Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI
 
-### Machine Learning & AI
+🧠 Built Production RAG Chatbots using LangChain, FAISS and ChromaDB
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+📊 Developed Fraud Detection Models with 92% Accuracy
 
-### Generative AI
+🚀 Currently Learning Advanced GenAI, Agents and MLOps
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0099FF?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+📍 Kannur, Kerala, India
 
-### Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Deployment & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+📧 Email: **rijinjenjen2003@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rijin-jenjen">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rijinjenjen2003">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,fastapi" />
+</p>
+
+---
+
+## 💻 Skills
+
+```text
+AI / GenAI
+├── RAG Pipelines
+├── Prompt Engineering
+├── LangChain
+├── FAISS
+├── Hugging Face
+└── Transformers
+
+Machine Learning
+├── Scikit-Learn
+├── TensorFlow
+├── PyTorch
+├── Deep Learning
+└── Neural Networks
+
+NLP & Computer Vision
+├── OpenCV
+├── CNN
+├── Tokenization
+├── Text Processing
+└── Medical Imaging
+
+Data Analytics
+├── Pandas
+├── NumPy
+├── Power BI
+├── Matplotlib
+└── SQL
+```
+
+---
+
+## 🔥 Featured Projects
 
 ### 📄 PDF RAG Chatbot
 
-- Built an end-to-end Retrieval-Augmented Generation system
-- LangChain + FAISS + ChromaDB
-- Multi-turn conversational memory
-- Streamlit Deployment
+✅ LangChain
 
-### 💳 Credit Card Fraud Detection
+✅ FAISS
 
-- Processed 284,000+ transactions
-- Solved class imbalance using SMOTE
-- Random Forest + GridSearchCV
-- Achieved 92% accuracy
+✅ ChromaDB
 
-### 🫁 Pneumonia Detection using CNN
+✅ Streamlit
 
-- Deep Learning for medical imaging
-- Transfer Learning & Data Augmentation
-- OpenCV + TensorFlow/Keras
-
-### 📄 Resume Information Extractor
-
-- Extract Name, Email, Phone Number
-- PDF Processing using NLP
-- Streamlit Web App
-
-### 👁️ Face Detection App
-
-- OpenCV-based Computer Vision Project
-- Real-time Face Detection
-- Streamlit Deployment
+✅ Multi-turn Conversation
 
 ---
 
-## 📊 GitHub Stats
+### 💳 Credit Card Fraud Detection
 
-![Rijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijinjenjen2003&show_icons=true&theme=tokyonight)
+✅ SMOTE
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijinjenjen2003&layout=compact&theme=tokyonight)
+✅ Random Forest
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rijinjenjen2003&theme=tokyonight)
+✅ GridSearchCV
+
+✅ 284,000+ Transactions
+
+✅ 92% Accuracy
+
+---
+
+### 🫁 Pneumonia Detection Using CNN
+
+✅ TensorFlow
+
+✅ Keras
+
+✅ OpenCV
+
+✅ Transfer Learning
+
+✅ Medical Image Classification
+
+---
+
+### 📄 Resume Information Extractor
+
+✅ NLP
+
+✅ PDF Processing
+
+✅ Name Extraction
+
+✅ Email & Phone Extraction
+
+✅ Streamlit Deployment
+
+---
+
+### 👁️ Face Detection App
+
+✅ OpenCV
+
+✅ Computer Vision
+
+✅ Real-time Face Detection
+
+✅ Streamlit
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rijinjenjen2003&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijinjenjen2003&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rijinjenjen2003&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rijinjenjen2003&theme=tokyo-night" />
 
 ---
 
 ## 🎯 Current Focus
 
-- 🤖 Generative AI Applications
-- 📚 RAG Systems
-- 🧠 LLM Fine-Tuning
-- 🚀 MLOps & Deployment
-- 👁️ Computer Vision Projects
+🔹 Generative AI
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 Large Language Models (LLMs)
+
+🔹 MLOps
+
+🔹 Computer Vision
+
+🔹 AI Deployment
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
-📧 **Email:** rijinjenjen2003@gmail.com
+🏅 Built Production RAG Chatbot
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rijin-jenjen
+🏅 92% Accuracy in Fraud Detection
 
-🐙 **GitHub:** https://github.com/rijinjenjen2003
+🏅 Developed Multiple AI/ML Projects
+
+🏅 Experience in NLP & Computer Vision
+
+🏅 Power BI Dashboard Development
 
 ---
 
@@ -123,4 +226,6 @@ Passionate about building AI-powered applications, Machine Learning solutions, a
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!** 🚀
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<h3 align="center">🚀 Let's Build AI Together 🚀</h3>
