@@ -10,7 +10,7 @@ Passionate about building AI-powered applications, Machine Learning solutions, a
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 🤖 AI/ML Engineer with experience in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
-- 🧠 Built Production RAG Chatbots using LangChain, FAISS, ChromaDB, and LLMs
+- 🧠 Built Production RAG Chatbots 
 - 📊 Developed Fraud Detection Models achieving **92% accuracy**
 - 👨‍💻 Experienced with Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, Power BI
 - 🌱 Currently exploring Advanced GenAI, Agents, and MLOps
